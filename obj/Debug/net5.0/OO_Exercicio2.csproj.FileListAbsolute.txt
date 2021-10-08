@@ -1,0 +1,16 @@
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\obj\Debug\net5.0\OO_Exercicio2.csproj.AssemblyReference.cache
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\obj\Debug\net5.0\OO_Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\obj\Debug\net5.0\OO_Exercicio2.AssemblyInfoInputs.cache
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\obj\Debug\net5.0\OO_Exercicio2.AssemblyInfo.cs
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\obj\Debug\net5.0\OO_Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\bin\Debug\net5.0\OO_Exercicio2.exe
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\bin\Debug\net5.0\OO_Exercicio2.deps.json
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\bin\Debug\net5.0\OO_Exercicio2.runtimeconfig.json
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\bin\Debug\net5.0\OO_Exercicio2.runtimeconfig.dev.json
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\bin\Debug\net5.0\OO_Exercicio2.dll
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\bin\Debug\net5.0\ref\OO_Exercicio2.dll
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\bin\Debug\net5.0\OO_Exercicio2.pdb
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\obj\Debug\net5.0\OO_Exercicio2.dll
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\obj\Debug\net5.0\ref\OO_Exercicio2.dll
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\obj\Debug\net5.0\OO_Exercicio2.pdb
+C:\Users\f87621c\myApp\Udemy\OO_Exercicio2\obj\Debug\net5.0\OO_Exercicio2.genruntimeconfig.cache
